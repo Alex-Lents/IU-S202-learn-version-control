@@ -34,5 +34,11 @@
     "scientificName": "Panthera leo",
     "habitat": "grasslands, savannahs, and shrublands",
     "description": "large cat with mein native to Sub-Saharan Africa and India."
+  },
+  {
+    "commonName": "Jaguar",
+    "scientificName": "Panthera onca",
+    "habitat": "tropical and subtropical moist broadleaf forest",
+    "description": "large cat with multicolored spots native to Central and South America."
   }
 ]
