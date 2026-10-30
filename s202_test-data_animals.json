@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Lion",
+    "scientificName": "Panthera leo",
+    "habitat": "grasslands, savannahs, and shrublands",
+    "description": "large cat with mein native to Sub-Saharan Africa and India."
   }
 ]
